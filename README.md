@@ -1,6 +1,5 @@
 # Little Armenia Cafe Website
 A responsive website for a local pop-up restaurant serving up authentic Armenian cuisine. 
-Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
 
 **Link to project:** https://littlearmeniacafe.com/
 
