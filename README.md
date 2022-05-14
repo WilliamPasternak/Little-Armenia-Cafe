@@ -11,4 +11,4 @@ Be sure to include a link and a screenshot (we're front end devs so we can actua
 **Tech used:** HTML, CSS, JavaScript
 
 ## Optimizations
-Photographer provided high quality photos that were too large for the web. I reduced image size while maintaining quality to decrease page load speed. 
+Adjust the constrast between the text and background image so it is more readible. Remove the youtube player and replace with an unbranded one. Enable online ordering and gift card purchases.
