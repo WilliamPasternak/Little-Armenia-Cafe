@@ -4,7 +4,7 @@ Be sure to include a link and a screenshot (we're front end devs so we can actua
 
 **Link to project:** https://littlearmeniacafe.com/
 
-![alt tag](https://ibb.co/9TfhDVd) 
+![alt tag](https://i.ibb.co/58zk0nJ/Little-Armenia-Cafe.png) 
 
 ## How It's Made:
 
