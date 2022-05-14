@@ -11,7 +11,6 @@ Be sure to include a link and a screenshot (we're front end devs so we can actua
 **Tech used:** HTML, CSS, JavaScript
 
 ## Optimizations
-*(optional)*
 Photographer provided high quality photos that were too large for the web. I reduced image size while maintaining quality to decrease page load speed. 
 
 ## Lessons Learned:
