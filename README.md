@@ -3,7 +3,7 @@ A responsive website for a local pop-up restaurant serving up authentic Armenian
 
 **Link to project:** https://littlearmeniacafe.com/
 
-![alt tag](https://i.ibb.co/58zk0nJ/Little-Armenia-Cafe.png) 
+![alt tag](https://github.com/WilliamPasternak/Little-Armenia-Cafe/blob/main/Little%20Armenia%20Cafe/LittleArmeniaCafecom_Site_Overview.gif) 
 
 ## How It's Made:
 
