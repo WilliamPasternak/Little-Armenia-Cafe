@@ -10,4 +10,12 @@ A responsive website for a local pop-up restaurant serving up authentic Armenian
 **Tech used:** HTML, CSS, JavaScript
 
 ## Optimizations
-Adjust the constrast between the text and background image so it is more readible. Remove the youtube player and replace with an unbranded one. Enable online ordering and gift card purchases.
+Adjust the constrast between the text and background image so it is more readible.  
+Remove the youtube player and replace with an unbranded one. Enable online ordering and gift card purchases.
+
+
+## Other Projects:
+
+**Busboy** https://github.com/WilliamPasternak/busboy
+
+**Bartender Portfolio:** https://github.com/WilliamPasternak/bartender-portfolio
